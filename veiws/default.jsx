@@ -6,7 +6,7 @@ function Def (html) {
             <head>
                 <title>Title</title>
                 /* BOOTSTRAP CDN LINK (long) */
-                <link rel="stylesheet" href="/css/style.css"/>
+                <link rel="stylesheet" href="css/style.css"/>
             </head>
             <body>
                 {html.children}
