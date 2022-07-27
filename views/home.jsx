@@ -12,7 +12,7 @@ function home () {
               <div>
                 Photo by Alex Musell <a href='https://unsplash.com/photos/auIbTAcSH6E'>Upslash</a>
               </div>
-              <a href="/places">
+              <a href="/places/index.jsx">
   <button className="btn-primary">Places Page</button>
 </a>
 
