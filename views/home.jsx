@@ -7,7 +7,7 @@ function home () {
           <main>
               <h1>HOME</h1>
               <div>
-                <img src="/public/images/homeimage.jpg" />
+                <img src="/images/homeimage.jpg" />
               </div>
               <div>
                 Photo by Alex Musell <a href='https://unsplash.com/photos/auIbTAcSH6E'>Upslash</a>
